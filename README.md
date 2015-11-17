@@ -1,2 +1,2 @@
-# webview4
-Data exchange between 2 ends of the bridge
+# webview5
+local notification sample
